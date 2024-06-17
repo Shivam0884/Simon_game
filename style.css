@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+.main{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.main div{
+    height: 180px;
+    width: 180px;
+    border: 6px solid black;
+    border-radius:20px ;
+}
+.one,.three{
+    margin-right: 10px;
+}
+.one{
+    background-color: #d95980;
+}
+.two{
+    background-color: #63aac0;
+}
+.three{
+    background-color: #f99b45;
+}
+.four{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: white;
+}
