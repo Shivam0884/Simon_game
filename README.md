@@ -1,6 +1,6 @@
 # Simon_game
 
-The Simon Game project aims to recreate the classic memory game "Simon" using HTML, CSS, and JavaScript. This project involves designing a user-friendly interface and implementing the game logic to provide an engaging and interactive experience.
+The Simon Game project is the classic memory game "Simon" using HTML, CSS, and JavaScript. This project involves designing a user-friendly interface and implementing the game logic to provide an engaging and interactive experience.
 
 *Project Overview:*
 
